@@ -1,2 +1,2 @@
-# arduino_hello_world
+# Arduino Hello World
 LED Blinking with arduino uno.
